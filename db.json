@@ -105,19 +105,6 @@
             "longitude": -83.9208333
           },
           {
-            "datetime": "6/30/1949 21:00",
-            "city": "salem",
-            "state": "or",
-            "country": "us",
-            "shape": "cigar",
-            "duration-s": 0,
-            "duration-hm": 2300,
-            "comments": "Cigar Craft&#44 Body Marks and Missing Time",
-            "date posted": "8/5/2009",
-            "latitude": 44.9430556,
-            "longitude": -123.0338889
-          },
-          {
             "datetime": "6/4/1949 10:00",
             "city": "los angeles",
             "state": "ct",
